@@ -1,0 +1,4 @@
+{
+  "web_pages": ["https://www.example.org/"],
+  "feeds": ["https://www.example.org/feed.xml"]
+}
