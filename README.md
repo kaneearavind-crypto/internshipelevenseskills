@@ -1,6 +1,6 @@
 # Internship Tasks — Ordered Submission Folder
 
-This folder contains all six tasks in the requested Q1-to-Q6 order. The original Q1 and Q2 training artifacts are preserved; Q3–Q6 implementations are included with individual READMEs.
+This folder contains all six tasks in the requested Q1-to-Q6 order. 
 
 1. `Q1_Sentiment_Analysis/`
 2. `Q2_Medical_QA/`
